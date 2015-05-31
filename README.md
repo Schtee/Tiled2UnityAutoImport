@@ -1,6 +1,6 @@
 # Tiled2UnityAutoImport
 ---
-## For use with [Tiled2Unity](http://www.seanba.com/tiled3unity)
+## For use with [Tiled2Unity](http://www.seanba.com/tiled2unity)
 
 A simple bit of Editor script to allow .tmx Tiled Map files to be automatically
 processed by Tiled2Unity.
