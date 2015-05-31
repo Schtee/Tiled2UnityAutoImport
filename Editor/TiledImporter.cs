@@ -40,7 +40,7 @@ public class TiledImporter : AssetPostprocessor
 		_preferences = new Preferences();
 	}
 
-	[MenuItem("Tiled2Unity/Set Tiled2Unity Prefs")]
+	[MenuItem("Tiled2Unity/Set Tiled2Unity Import Prefs")]
 	private static void ShowPathWindow()
 	{
 		TiledImporterPreferencesWindow.Init(_preferences);
